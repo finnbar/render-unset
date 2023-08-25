@@ -1,0 +1,8 @@
+_output/*.png
+_output/*.pdf
+~$*
+.DS_Store
+Art/*.png
+Overlays/*.png
+cards.csv
+cards-test.csv
